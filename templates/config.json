@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "fb_url": "https://facebook.com/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "tw_url": "https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "Geography Blogs",
+    "tag_line": "Heaven for General Knowledge",
+    "gmail-user": "yashsinha@gmail.com",
+    "gmail-password": "password",
+    "about_text": "Hi my name is Yash",
+    "no_of_posts": 5,
+    "login_image":"login.jpg",
+    "admin_user":"yash@gmail",
+    "admin_password": "password",
+    "upload_location": "C:\\Users\\Yash\\PycharmProjects\\Flask"
+  }
+}
